@@ -1,0 +1,7 @@
+
+xmonad.hs:282:1: warning: [-Wtabs]
+    Tab character found here, and in one further location.
+    Please use spaces instead.
+    |
+282 |           spawnOnce " xsetroot -cursor_name left_ptr &"
+    | ^^^^^^^^
